@@ -4,7 +4,7 @@
 ?>
 <header>
 			<div class="wrapper">
-				<h1 class="logo">JK Car Company</h1>
+				<h1 class="logo">Kannan Car Company</h1>
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<?php
